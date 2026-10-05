@@ -74,3 +74,11 @@
 * **Actionable Fleet Interventions:**
 * Implement targeted driver bonuses for city-to-airport trips in the late afternoon to naturally increase vehicle availability for evening flight arrivals.
 * Introduce airport return trip guarantees or queue-priority privileges for drivers who accept early-morning city-to-airport runs, directly cutting cancellation rates.
+
+
+---
+
+### 9.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/rushabh419/Uber-Dashboard/blob/main/Main%20Uber.png)
+[Dashboard Preview](https://github.com/rushabh419/Uber-Dashboard/blob/main/uber%20dashboard.png)
